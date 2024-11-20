@@ -78,7 +78,7 @@ The **Laxmi Chit Fund** project is a simple console-based Java application that 
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License.
 
 ## Acknowledgements
 

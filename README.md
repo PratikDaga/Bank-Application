@@ -79,7 +79,3 @@ The **Laxmi Chit Fund** project is a simple console-based Java application that 
 ## License
 
 This project is licensed under the MIT License.
-
-## Acknowledgements
-
-- This project was created for educational purposes to demonstrate basic Java programming techniques, including object-oriented programming concepts and file handling.

@@ -76,6 +76,3 @@ The **Laxmi Chit Fund** project is a simple console-based Java application that 
   - `accountNumber`, `ifscCode`: Fixed details related to the bank.
   - `statement`: List to store transaction records (deposits and withdrawals).
 
-## License
-
-This project is licensed under the MIT License.
